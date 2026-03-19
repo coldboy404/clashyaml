@@ -6,9 +6,9 @@ DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtubei.googleapis.com
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-KEYWORD,youtube
-DOMAIN-SUFFIX,googleapis.com
+#DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,google.com
+#DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,ggpht.com
-DOMAIN-KEYWORD,google
+#DOMAIN-KEYWORD,google
