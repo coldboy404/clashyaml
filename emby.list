@@ -1,13 +1,11 @@
 # 内容：emby 
 DOMAIN-KEYWORD,emby
 DOMAIN-SUFFIX,aliz.work
-DOMAIN-SUFFIX,mebimmer.de
 DOMAIN-SUFFIX,28.al
 DOMAIN-SUFFIX,meowfly.de
 DOMAIN-SUFFIX,feiniu.lol
 DOMAIN-SUFFIX,liminalnet.com
 DOMAIN-SUFFIX,ciallo.party
-DOMAIN-SUFFIX,5msky.com
 DOMAIN-SUFFIX,3767483.xyz
 DOMAIN-SUFFIX,younoyes.com
 DOMAIN-SUFFIX,emos.best
@@ -38,6 +36,7 @@ DOMAIN-SUFFIX,saturdayvideo.top
 DOMAIN-SUFFIX,gy.smlwmv.com
 DOMAIN-SUFFIX,klplay.top
 DOMAIN-SUFFIX,potdot.de
+DOMAIN-SUFFIX,aixj.de
 
 #弹幕api
 DOMAIN-SUFFIX,danmu.coldboy.de
