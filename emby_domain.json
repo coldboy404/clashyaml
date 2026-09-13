@@ -1,0 +1,53 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_keyword": [
+        "emby"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "emby.jingzhe.pro",
+        "c.emby.wtf",
+        "test.28.al",
+        "gy.meowfly.de",
+        "emby.younoyes.com",
+        "emby.liminalnet.com",
+        "ciallo.party",
+        "lite.cn2gias.uk",
+        "public.shrekmedia.org",
+        "a1.handoumedia.top",
+        "fworks-emby.webn.cc",
+        "emby.hohai.eu.org",
+        "emos.best",
+        "emby.my",
+        "emby.bangumi.ca",
+        "link00.okemby.org",
+        "nay.007.us.kg",
+        "wp.lyezi.cc",
+        "mi.miraiemby.com",
+        "lite.saturdayent.top",
+        "tyemby.klplay.top",
+        "eco.potdot.de",
+        "eb.zzm.li",
+        "fych.feiyue.lol",
+        "cf.aixj.de",
+        "media.nookreel.com",
+        "emby.syemby.com",
+        "gy.smlwmv.com",
+        "lunarisvault.com",
+        "111660.xyz",
+        "bb.emby.edu.kg",
+        "emby.fastcdn.dpdns.org",
+        "danmu.coldboy.de",
+        "dandanplay.net",
+        "coldboy.de",
+        "coldboy.cc",
+        "coldboy.ggff.net",
+        "oxo.qzz.io",
+        "ovvo.xx.kg"
+      ]
+    }
+  ]
+}
