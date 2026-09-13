@@ -247,12 +247,12 @@ rule-providers:
   Bybit-Domain: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/bybit.mrs"}
   Binance-Domain: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/binance.mrs"}
   Youtube-Domain: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo-lite/geosite/youtube.mrs"}
-  Youtube-Domain-2: {<<: *class, url: "https://raw.githubusercontent.com/coldboy404/clashyaml/refs/heads/main/youtube.list"}
+  Youtube-Domain-2: {<<: *class, url: "https://raw.githubusercontent.com/coldboy404/clashyaml/refs/heads/main/mihomo/youtube.list"}
   TikTok-Domain: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.mrs"}
   Netflix-Domain: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/netflix.mrs"}
   Netflix-IP: {<<: *ip, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/netflix.mrs"}
   Spotify-Domain: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/spotify.mrs"}
-  Emby-Domain: {<<: *class, url: "https://raw.githubusercontent.com/coldboy404/clashyaml/refs/heads/main/emby.list"}
+  Emby-Domain: {<<: *class, url: "https://raw.githubusercontent.com/coldboy404/clashyaml/refs/heads/main/mihomo/emby.list"}
   Steam-Domain: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/steam.mrs"}
   Epic-Domain: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/985c5318f287837d26f55787c1b1c2f6fc122b6f/geo/geosite/epicgames.mrs"}
   EA-Domain: {<<: *class, url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/EA/EA.list"}
@@ -262,10 +262,10 @@ rule-providers:
   Nintend-Domain: {<<: *class, url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Nintendo/Nintendo.list"}
   Google-Domain: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.mrs"}
   Google-IP: {<<: *ip, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/google.mrs"}
-  测试-Domain: {<<: *class, url: "https://raw.githubusercontent.com/coldboy404/clashyaml/refs/heads/main/check-test.list"}
-  Proxy-Domain: {<<: *class, url: "https://raw.githubusercontent.com/coldboy404/clashyaml/refs/heads/main/proxy.list"}
+  测试-Domain: {<<: *class, url: "https://raw.githubusercontent.com/coldboy404/clashyaml/refs/heads/main/mihomo/check-test.list"}
+  Proxy-Domain: {<<: *class, url: "https://raw.githubusercontent.com/coldboy404/clashyaml/refs/heads/main/mihomo/proxy.list"}
   Global-Domain: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/refs/heads/meta/geo-lite/geosite/proxy.mrs"}
-  Direct-Domain: {<<: *class, url: "https://raw.githubusercontent.com/coldboy404/clashyaml/refs/heads/main/direct.list"}
+  Direct-Domain: {<<: *class, url: "https://raw.githubusercontent.com/coldboy404/clashyaml/refs/heads/main/mihomo/direct.list"}
   China-Domain: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.mrs"}
   China-IP: {<<: *class, url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/ChinaIPs/ChinaIPs.list"}
   Private-Domain: {<<: *domain, url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.mrs"}
